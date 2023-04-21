@@ -1,0 +1,23 @@
+.vscode
+.idea
+.env
+tex/*.aux
+tex/*.bbl
+tex/*.out
+tex/*.log
+tex/*.soc
+tex/*.gz
+tex/*.blg
+tex/*.loc
+# Package install
+build
+*.pyc
+*.egg
+*.egg-info
+.DS_Store
+*.gz
+*.c
+*.so
+srcfast/*.html
+
+.DS_Store
